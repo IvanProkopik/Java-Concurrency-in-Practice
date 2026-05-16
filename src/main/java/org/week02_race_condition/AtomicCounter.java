@@ -1,4 +1,4 @@
-package org.demo.week02_race_condition;
+package org.week02_race_condition;
 
 
 import java.util.concurrent.atomic.AtomicInteger;

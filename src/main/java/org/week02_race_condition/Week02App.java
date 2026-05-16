@@ -1,4 +1,4 @@
-package org.demo.week02_race_condition;
+package org.week02_race_condition;
 
 public class Week02App {
 
